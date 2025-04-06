@@ -1,0 +1,7 @@
+# For the whole project
+- Be sure to use docs for Shopify, Remix, Vite and Prisma
+
+# For JSX
+
+- All jsx tags and html tags should be in a single line regardless of how many properties it has.
+- Organize tag properties in alphabetical but keep id, class/className and name up front.
